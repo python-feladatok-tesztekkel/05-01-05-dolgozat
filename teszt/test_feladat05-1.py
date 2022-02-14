@@ -6,8 +6,9 @@ parent_dir = os.path.dirname(current_dir)
 sys.path.insert(0, parent_dir)
 import feladatok
 
-class TestOsszeg(TestCase):
+class Testosszeg10(TestCase):
     def test_feladat01(self):
-        aktualis = feladatok.feladat01()
-        elvart = 0
-        self.assertEqual(elvart, aktualis, "Szöveg")
+        aktualis = feladatok.osszeg(10)
+        elvart = 55
+        self.assertEqual(elvart, aktualis, "A osszeg nem jól határozta meg!")
+
