@@ -21,13 +21,13 @@
 # Tesztelje a függvényt a következő paraméterekkel: (5.3, 2.8), (0, 10), (-10,0)
 
 # 3. feladat
-# Írjon függvényt paratlan-e néven amely egy adott számról eldönti, hogy páratlan-e!
+# Írjon függvényt "paratlan_e" néven amely egy adott számról eldönti, hogy páratlan-e!
 
 # Tesztelje a függvényt a következő paraméterekkel: 4,5
 
 
 # 4. feladat
-# Írjon függvényt lottoszam-e néven, amely egy számról eldönti, hogy lottószám-e
+# Írjon függvényt "lottoszam_e" néven, amely egy számról eldönti, hogy lottószám-e
 # Legkisebb kihúzható lottószám az egy, a legnagyobb a kilencven
 
 # Tesztelje a függvényt a következő paraméterekkel: 5, 100
